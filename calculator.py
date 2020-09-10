@@ -8,3 +8,4 @@ class Calculator:
 
 def main():
 	print('main')
+	print('1')
